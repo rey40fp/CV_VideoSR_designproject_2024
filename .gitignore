@@ -55,3 +55,11 @@
 **/.DS_Store
 **/.DS_Store
 **/.DS_Store
+Models/SRCNN_organized/original_training_data/x4/91-image_x4.h5
+Models/SRCNN_organized/original_training_data/x4/Set5_x4.h5
+/Models/SCRNN_organized/outputs/*
+Models/SRCNN_Jonathan/original_training_data/*
+Models/SRCNN_Jonathan/original_training_data/x4/91-image_x4.h5
+Models/SRCNN_Jonathan/original_training_data/x4/Set5_x4.h5
+Models/SRCNN_Jonathan/original_training_data/x4/91-image_x4.h5
+Models/SRCNN_Jonathan/original_training_data/x4/Set5_x4.h5
